@@ -41,6 +41,7 @@ namespace ScientificCalculator
 
         private void button2_Click(object sender, EventArgs e)
         {
+            resultTextBox.Text = "";
             if (operation == ' ')
             {
                 firstOperand += "0";
@@ -54,6 +55,7 @@ namespace ScientificCalculator
 
         private void button1_Click(object sender, EventArgs e)
         {
+            resultTextBox.Text = "";
             if (operation == ' ')
             {
                 firstOperand += "9";
@@ -67,12 +69,19 @@ namespace ScientificCalculator
 
         private void button7_Click(object sender, EventArgs e)
         {
-
+            double op1 = Convert.ToDouble(firstOperand);
+            firstOperand = "";
+            displayTextBox.Text = "";
+            resultTextBox.Text = Math.Cos(op1).ToString();
+            operation = ' ';
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-
+            double op1 = Convert.ToDouble(firstOperand);
+            displayTextBox.Text = "";
+            resultTextBox.Text = Math.Sin(op1).ToString();
+            operation = ' ';
         }
 
         private void button9_Click(object sender, EventArgs e)
@@ -129,6 +138,7 @@ namespace ScientificCalculator
 
         private void button15_Click(object sender, EventArgs e)
         {
+            resultTextBox.Text = "";
             if (operation == ' ')
             {
                 firstOperand += "1";
@@ -147,6 +157,7 @@ namespace ScientificCalculator
 
         private void button16_Click(object sender, EventArgs e)
         {
+            resultTextBox.Text = "";
             if (operation == ' ')
             {
                 firstOperand += "2";
@@ -160,6 +171,7 @@ namespace ScientificCalculator
 
         private void button17_Click(object sender, EventArgs e)
         {
+            resultTextBox.Text = "";
             if (operation == ' ')
             {
                 firstOperand += "3";
@@ -173,6 +185,7 @@ namespace ScientificCalculator
 
         private void button14_Click(object sender, EventArgs e)
         {
+            resultTextBox.Text = "";
             if (operation == ' ')
             {
                 firstOperand += "4";
@@ -186,6 +199,7 @@ namespace ScientificCalculator
 
         private void button10_Click(object sender, EventArgs e)
         {
+            resultTextBox.Text = "";
             if (operation == ' ')
             {
                 firstOperand += "5";
@@ -199,6 +213,7 @@ namespace ScientificCalculator
 
         private void button11_Click(object sender, EventArgs e)
         {
+            resultTextBox.Text = "";
             if (operation == ' ')
             {
                 firstOperand += "6";
@@ -212,6 +227,7 @@ namespace ScientificCalculator
 
         private void button12_Click(object sender, EventArgs e)
         {
+            resultTextBox.Text = "";
             if (operation == ' ')
             {
                 firstOperand += "7";
@@ -225,6 +241,7 @@ namespace ScientificCalculator
 
         private void button13_Click(object sender, EventArgs e)
         {
+            resultTextBox.Text = "";
             if (operation == ' ')
             {
                 firstOperand += "8";
@@ -240,6 +257,11 @@ namespace ScientificCalculator
         {
             displayTextBox.Text += "*";
             operation = '*';
+        }
+
+        private void button18_Click(object sender, EventArgs e)
+        {
+            resultTextBox.Text = "";
         }
     }
 }
