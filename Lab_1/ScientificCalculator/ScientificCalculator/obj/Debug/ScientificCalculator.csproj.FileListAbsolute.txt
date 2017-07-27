@@ -1,1 +1,9 @@
 E:\Nishant_Sahoo_150953244\Lab_1\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+E:\Nishant_Sahoo_150953244\Lab_1\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csprojResolveAssemblyReference.cache
+E:\Nishant_Sahoo_150953244\Lab_1\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.form1.resources
+E:\Nishant_Sahoo_150953244\Lab_1\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Properties.Resources.resources
+E:\Nishant_Sahoo_150953244\Lab_1\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.GenerateResource.Cache
+E:\Nishant_Sahoo_150953244\Lab_1\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+E:\Nishant_Sahoo_150953244\Lab_1\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+E:\Nishant_Sahoo_150953244\Lab_1\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+E:\Nishant_Sahoo_150953244\Lab_1\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
