@@ -1,1 +1,10 @@
 E:\Nishant_Sahoo_150953244\Lab_1\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+D:\Sem_5\DBMS_Lab_Sem_5\Lab_1\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+D:\Sem_5\DBMS_Lab_Sem_5\Lab_1\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe
+D:\Sem_5\DBMS_Lab_Sem_5\Lab_1\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+D:\Sem_5\DBMS_Lab_Sem_5\Lab_1\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csprojResolveAssemblyReference.cache
+D:\Sem_5\DBMS_Lab_Sem_5\Lab_1\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Form1.resources
+D:\Sem_5\DBMS_Lab_Sem_5\Lab_1\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Properties.Resources.resources
+D:\Sem_5\DBMS_Lab_Sem_5\Lab_1\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.GenerateResource.Cache
+D:\Sem_5\DBMS_Lab_Sem_5\Lab_1\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.exe
+D:\Sem_5\DBMS_Lab_Sem_5\Lab_1\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
