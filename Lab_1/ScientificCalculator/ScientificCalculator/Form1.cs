@@ -12,7 +12,6 @@ namespace ScientificCalculator
 {
     public partial class form1 : Form
     {
-        string input = "";
         string firstOperand = "";
         string secondOperand = "";
         char operation = ' ';
