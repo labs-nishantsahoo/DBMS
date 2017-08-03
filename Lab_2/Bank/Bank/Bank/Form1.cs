@@ -35,8 +35,9 @@ namespace Bank
             }
             else
             {
-                MessageBox.Show("Login unsuccessful");
+                MessageBox.Show("Wrong username or password");
             }
+            textBox1.Text = textBox2.Text = "";
         }
     }
 }
