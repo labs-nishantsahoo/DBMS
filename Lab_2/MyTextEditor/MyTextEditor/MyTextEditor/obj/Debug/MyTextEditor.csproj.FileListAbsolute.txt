@@ -1,0 +1,9 @@
+E:\Nishant_Sahoo_150953244\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\bin\Debug\MyTextEditor.exe.config
+E:\Nishant_Sahoo_150953244\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\bin\Debug\MyTextEditor.exe
+E:\Nishant_Sahoo_150953244\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\bin\Debug\MyTextEditor.pdb
+E:\Nishant_Sahoo_150953244\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\obj\Debug\MyTextEditor.csprojResolveAssemblyReference.cache
+E:\Nishant_Sahoo_150953244\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\obj\Debug\MyTextEditor.Form1.resources
+E:\Nishant_Sahoo_150953244\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\obj\Debug\MyTextEditor.Properties.Resources.resources
+E:\Nishant_Sahoo_150953244\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\obj\Debug\MyTextEditor.csproj.GenerateResource.Cache
+E:\Nishant_Sahoo_150953244\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\obj\Debug\MyTextEditor.exe
+E:\Nishant_Sahoo_150953244\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\obj\Debug\MyTextEditor.pdb

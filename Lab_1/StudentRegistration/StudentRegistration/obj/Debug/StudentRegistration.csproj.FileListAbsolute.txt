@@ -17,3 +17,5 @@ D:\Github_NishantSahoo\DBMS_Lab_CCE_Sem_5\Lab_1\StudentRegistration\StudentRegis
 D:\Github_NishantSahoo\DBMS_Lab_CCE_Sem_5\Lab_1\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Form1.resources
 D:\Github_NishantSahoo\DBMS_Lab_CCE_Sem_5\Lab_1\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Properties.Resources.resources
 D:\Github_NishantSahoo\DBMS_Lab_CCE_Sem_5\Lab_1\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.GenerateResource.Cache
+E:\Nishant_Sahoo_150953244\Lab_1\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.exe
+E:\Nishant_Sahoo_150953244\Lab_1\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
