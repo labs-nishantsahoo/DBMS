@@ -44,16 +44,16 @@ namespace StudentRegistration
             {
                 MessageBox.Show("Form submission successful", "Note",
 MessageBoxButtons.OKCancel, MessageBoxIcon.Asterisk);
+                textBox1.Text = null;
+                comboBox1.Text = null;
+                checkBox1.Checked = checkBox2.Checked = false;
+                radioButton1.Checked = false;
             }
             else
             {
-                MessageBox.Show("Form submission unsuccessful", "Note",
+                MessageBox.Show("Form submission unsuccessful. Try again.", "Note",
 MessageBoxButtons.OKCancel, MessageBoxIcon.Asterisk);
             }
-            textBox1.Text = null;
-            comboBox1.Text = null;
-            checkBox1.Checked = checkBox2.Checked = false;
-            radioButton1.Checked = false;
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
