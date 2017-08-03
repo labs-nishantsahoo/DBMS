@@ -1,1 +1,9 @@
 E:\Nishant_Sahoo_150953244\Lab_2\Bank\Bank\Bank\bin\Debug\Bank.exe.config
+E:\Nishant_Sahoo_150953244\Lab_2\Bank\Bank\Bank\bin\Debug\Bank.exe
+E:\Nishant_Sahoo_150953244\Lab_2\Bank\Bank\Bank\bin\Debug\Bank.pdb
+E:\Nishant_Sahoo_150953244\Lab_2\Bank\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+E:\Nishant_Sahoo_150953244\Lab_2\Bank\Bank\Bank\obj\Debug\Bank.Form1.resources
+E:\Nishant_Sahoo_150953244\Lab_2\Bank\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+E:\Nishant_Sahoo_150953244\Lab_2\Bank\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+E:\Nishant_Sahoo_150953244\Lab_2\Bank\Bank\Bank\obj\Debug\Bank.exe
+E:\Nishant_Sahoo_150953244\Lab_2\Bank\Bank\Bank\obj\Debug\Bank.pdb
