@@ -22,3 +22,9 @@ D:\Sem_5\DBMS_Lab_Sem_5\Lab_1\ScientificCalculator\ScientificCalculator\obj\Debu
 D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_1\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
 D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_1\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.exe
 D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_1\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_1\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_1\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_1\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csprojResolveAssemblyReference.cache
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_1\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.form1.resources
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_1\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Properties.Resources.resources
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_1\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.GenerateResource.Cache

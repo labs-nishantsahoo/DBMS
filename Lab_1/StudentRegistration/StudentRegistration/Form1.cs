@@ -52,12 +52,12 @@ namespace StudentRegistration
                     profile += "GSMO | ";
                 }
                 String dob = dateTimePicker1.Value.ToShortDateString();
-                MessageBox.Show("Form submission successful!\nRegistration details:\nName: " + textBox1.Text + "\nBranch: " + comboBox1.Text + "\nProfile: "+ profile + "\nD.O.B: " + dob, "Note",
+                MessageBox.Show("\nRegistration details:\nName: " + textBox1.Text + "\nBranch: " + comboBox1.Text + "\nProfile: "+ profile + "\nD.O.B: " + dob, "Registration Successful!",
 MessageBoxButtons.OKCancel, MessageBoxIcon.Asterisk);
             }
             else
             {
-                MessageBox.Show("Form submission unsuccessful", "Note",
+                MessageBox.Show("Invalid form details", "Registration Failed!",
 MessageBoxButtons.OKCancel, MessageBoxIcon.Asterisk);
             }
             textBox1.Text = null;

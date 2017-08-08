@@ -260,7 +260,29 @@ namespace ScientificCalculator
 
         private void button18_Click(object sender, EventArgs e)
         {
-            resultTextBox.Text = "";
+            displayTextBox.Text = String.Empty;
+            resultTextBox.Text = String.Empty;
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button19_Click(object sender, EventArgs e)
+        {
+            double op1 = Convert.ToDouble(firstOperand);
+            displayTextBox.Text = "";
+            resultTextBox.Text = Math.Log(op1).ToString();
+            operation = ' ';
+        }
+
+        private void button20_Click(object sender, EventArgs e)
+        {
+            double op1 = Convert.ToDouble(firstOperand);
+            displayTextBox.Text = "";
+            resultTextBox.Text = Math.Tan(op1).ToString();
+            operation = ' ';
         }
     }
 }
