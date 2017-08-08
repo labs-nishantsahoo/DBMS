@@ -52,7 +52,7 @@ namespace StudentRegistration
                     profile += "GSMO | ";
                 }
                 String dob = dateTimePicker1.Value.ToShortDateString();
-                MessageBox.Show("\nRegistration details:\nName: " + textBox1.Text + "\nBranch: " + comboBox1.Text + "\nProfile: "+ profile + "\nD.O.B: " + dob, "Registration Successful!",
+                MessageBox.Show("Registration details:\nName: " + textBox1.Text + "\nBranch: " + comboBox1.Text + "\nProfile: "+ profile + "\nD.O.B: " + dob, "Registration Successful!",
 MessageBoxButtons.OKCancel, MessageBoxIcon.Asterisk);
             }
             else
