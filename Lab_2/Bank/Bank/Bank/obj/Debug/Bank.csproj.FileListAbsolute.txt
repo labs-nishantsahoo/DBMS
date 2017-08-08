@@ -7,3 +7,6 @@ E:\Nishant_Sahoo_150953244\Lab_2\Bank\Bank\Bank\obj\Debug\Bank.Properties.Resour
 E:\Nishant_Sahoo_150953244\Lab_2\Bank\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
 E:\Nishant_Sahoo_150953244\Lab_2\Bank\Bank\Bank\obj\Debug\Bank.exe
 E:\Nishant_Sahoo_150953244\Lab_2\Bank\Bank\Bank\obj\Debug\Bank.pdb
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_2\Bank\Bank\Bank\bin\Debug\Bank.exe.config
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_2\Bank\Bank\Bank\obj\Debug\Bank.exe
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_2\Bank\Bank\Bank\obj\Debug\Bank.pdb
