@@ -7,3 +7,12 @@ E:\Nishant_Sahoo_150953244\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\obj\Debu
 E:\Nishant_Sahoo_150953244\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\obj\Debug\MyTextEditor.csproj.GenerateResource.Cache
 E:\Nishant_Sahoo_150953244\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\obj\Debug\MyTextEditor.exe
 E:\Nishant_Sahoo_150953244\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\obj\Debug\MyTextEditor.pdb
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\bin\Debug\MyTextEditor.exe.config
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\obj\Debug\MyTextEditor.exe
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\obj\Debug\MyTextEditor.pdb
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\bin\Debug\MyTextEditor.exe
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\bin\Debug\MyTextEditor.pdb
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\obj\Debug\MyTextEditor.csprojResolveAssemblyReference.cache
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\obj\Debug\MyTextEditor.Form1.resources
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\obj\Debug\MyTextEditor.Properties.Resources.resources
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_2\MyTextEditor\MyTextEditor\MyTextEditor\obj\Debug\MyTextEditor.csproj.GenerateResource.Cache

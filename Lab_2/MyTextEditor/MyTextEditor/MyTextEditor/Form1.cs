@@ -140,6 +140,15 @@ namespace MyTextEditor
         private void aboutUsToolStripMenuItem_Click(object sender, EventArgs e)
         {
             System.Diagnostics.Process.Start("https://github.com/nishantsahoo");
+        }
+
+        private void colorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ColorDialog color = new ColorDialog();
+            if (color.ShowDialog() == DialogResult.OK)
+            {
+                textBox1.SelectionColor = color.Color;
+            }
         } // end of the function definition
     }
 }
