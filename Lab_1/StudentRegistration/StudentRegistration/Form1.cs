@@ -42,18 +42,28 @@ namespace StudentRegistration
         {
             if (Regex.IsMatch(textBox1.Text, @"^[a-zA-Z ]+$") && !string.IsNullOrEmpty(comboBox1.Text) && (checkBox1.Checked || checkBox2.Checked) && radioButton1.Checked )
             {
-                MessageBox.Show("Form submission successful", "Note",
+                String profile = "";
+                if (checkBox1.Checked)
+                {
+                    profile += "IDC | ";
+                }
+                if (checkBox2.Checked)
+                {
+                    profile += "GSMO | ";
+                }
+                String dob = dateTimePicker1.Value.ToShortDateString();
+                MessageBox.Show("Form submission successful!\nRegistration details:\nName: " + textBox1.Text + "\nBranch: " + comboBox1.Text + "\nProfile: "+ profile + "\nD.O.B: " + dob, "Note",
 MessageBoxButtons.OKCancel, MessageBoxIcon.Asterisk);
-                textBox1.Text = null;
-                comboBox1.Text = null;
-                checkBox1.Checked = checkBox2.Checked = false;
-                radioButton1.Checked = false;
             }
             else
             {
-                MessageBox.Show("Form submission unsuccessful. Try again.", "Note",
+                MessageBox.Show("Form submission unsuccessful", "Note",
 MessageBoxButtons.OKCancel, MessageBoxIcon.Asterisk);
             }
+            textBox1.Text = null;
+            comboBox1.Text = null;
+            checkBox1.Checked = checkBox2.Checked = false;
+            radioButton1.Checked = false;
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
