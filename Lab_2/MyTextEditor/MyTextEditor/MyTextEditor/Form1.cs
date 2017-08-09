@@ -93,7 +93,7 @@ namespace MyTextEditor
         {
             if (textBox1.SelectionLength > 0)
                 // Copy the selected text to the Clipboard.
-                textBox1.Copy();
+                textBox1.Cut();
         }
 
         private void copyToolStripMenuItem_Click(object sender, EventArgs e)
