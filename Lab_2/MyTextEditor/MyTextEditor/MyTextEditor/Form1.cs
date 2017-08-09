@@ -37,10 +37,13 @@ namespace MyTextEditor
             dlg.Title = "Open";
             dlg.ShowDialog();
             string fName = dlg.FileName;
-            System.IO.StreamReader sr = new System.IO.StreamReader(fName);
-            textBox1.Text = sr.ReadToEnd();
-            sr.Close();
-            this.Text = fName;
+            if (!fName.Equals(""))
+            {
+                System.IO.StreamReader sr = new System.IO.StreamReader(fName);
+                textBox1.Text = sr.ReadToEnd();
+                sr.Close();
+                this.Text = fName;
+            }
         }
 
         private void newToolStripMenuItem_Click(object sender, EventArgs e)
@@ -149,6 +152,11 @@ namespace MyTextEditor
             {
                 textBox1.SelectionColor = color.Color;
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            this.BackColor = System.Drawing.Color.AliceBlue;
         } // end of the function definition
     }
 }
