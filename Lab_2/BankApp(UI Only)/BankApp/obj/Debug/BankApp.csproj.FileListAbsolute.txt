@@ -1,0 +1,15 @@
+D:\lab\150953204\Lab 2\BankApp\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\shriv\Desktop\BankApp(UI Only)\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\shriv\Desktop\BankApp(UI Only)\BankApp\bin\Debug\BankApp.exe
+C:\Users\shriv\Desktop\BankApp(UI Only)\BankApp\bin\Debug\BankApp.pdb
+C:\Users\shriv\Desktop\BankApp(UI Only)\BankApp\obj\Debug\BankApp.csprojResolveAssemblyReference.cache
+C:\Users\shriv\Desktop\BankApp(UI Only)\BankApp\obj\Debug\BankApp.Form1.resources
+C:\Users\shriv\Desktop\BankApp(UI Only)\BankApp\obj\Debug\BankApp.Form2.resources
+C:\Users\shriv\Desktop\BankApp(UI Only)\BankApp\obj\Debug\BankApp.Form4.resources
+C:\Users\shriv\Desktop\BankApp(UI Only)\BankApp\obj\Debug\BankApp.Properties.Resources.resources
+C:\Users\shriv\Desktop\BankApp(UI Only)\BankApp\obj\Debug\BankApp.csproj.GenerateResource.Cache
+C:\Users\shriv\Desktop\BankApp(UI Only)\BankApp\obj\Debug\BankApp.exe
+C:\Users\shriv\Desktop\BankApp(UI Only)\BankApp\obj\Debug\BankApp.pdb
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_2\BankApp(UI Only)\BankApp\bin\Debug\BankApp.exe.config
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_2\BankApp(UI Only)\BankApp\obj\Debug\BankApp.exe
+D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_2\BankApp(UI Only)\BankApp\obj\Debug\BankApp.pdb
