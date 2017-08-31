@@ -17,3 +17,5 @@ D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_1\StudentRegistration\StudentRegistration\obj\D
 D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_1\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Form1.resources
 D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_1\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Properties.Resources.resources
 D:\Sem_5\DBMS_Lab_Sem_5\DBMS\Lab_1\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.GenerateResource.Cache
+E:\Nishant_Sahoo_150953244\Lab_1\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.exe
+E:\Nishant_Sahoo_150953244\Lab_1\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
