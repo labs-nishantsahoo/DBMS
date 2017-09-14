@@ -1,0 +1,10 @@
+E:\Nishant_Sahoo_150953244\Lab_5\DB_Access_From_VS\DB_Access_From_VS\bin\Debug\DB_Access_From_VS.exe.config
+E:\Nishant_Sahoo_150953244\Lab_5\DB_Access_From_VS\DB_Access_From_VS\bin\Debug\DB_Access_From_VS.exe
+E:\Nishant_Sahoo_150953244\Lab_5\DB_Access_From_VS\DB_Access_From_VS\bin\Debug\DB_Access_From_VS.pdb
+E:\Nishant_Sahoo_150953244\Lab_5\DB_Access_From_VS\DB_Access_From_VS\bin\Debug\Oracle.DataAccess.dll
+E:\Nishant_Sahoo_150953244\Lab_5\DB_Access_From_VS\DB_Access_From_VS\obj\Debug\DB_Access_From_VS.csprojResolveAssemblyReference.cache
+E:\Nishant_Sahoo_150953244\Lab_5\DB_Access_From_VS\DB_Access_From_VS\obj\Debug\DB_Access_From_VS.Form1.resources
+E:\Nishant_Sahoo_150953244\Lab_5\DB_Access_From_VS\DB_Access_From_VS\obj\Debug\DB_Access_From_VS.Properties.Resources.resources
+E:\Nishant_Sahoo_150953244\Lab_5\DB_Access_From_VS\DB_Access_From_VS\obj\Debug\DB_Access_From_VS.csproj.GenerateResource.Cache
+E:\Nishant_Sahoo_150953244\Lab_5\DB_Access_From_VS\DB_Access_From_VS\obj\Debug\DB_Access_From_VS.exe
+E:\Nishant_Sahoo_150953244\Lab_5\DB_Access_From_VS\DB_Access_From_VS\obj\Debug\DB_Access_From_VS.pdb
